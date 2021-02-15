@@ -1,0 +1,79 @@
+# Book settings
+title: DATA 550
+author: Firas Moosvi
+logo: images/logo.jpg
+copyright: ""
+exclude_patterns: ["LICENSE.md", "README.md"]
+only_build_toc_files: true
+
+latex:
+  latex_documents:
+    targetname: book.tex
+html:
+  home_page_in_navbar : false
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
+  navbar_number_sections : false
+  baseurl : "https://firas.moosvi.com/courses/data550"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  google_analytics_id: UA-168693744-4 # add your Google Analytics Tracking Code
+  comments:
+    hypothesis: false
+    utterances:
+      repo: "ubco-cmps/data550_course"
+  extra_footer : |
+      <div>
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
+          All content on this site (unless otherwise specified) is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>
+      </div>
+
+launch_buttons:
+  notebook_interface : "jupyterlab"
+  binderhub_url      : "https://mybinder.org"
+  thebe              : true
+
+repository: 
+  url          : https://github.com/ubco-cmps/data550_course
+  path_to_book : ""
+  branch       : master
+
+sphinx:
+  extra_extensions:
+    - sphinx_inline_tabs
+  config:
+    html_show_copyright: false
+    html_extra_path: ['files']
+    myst_enable_extensions: 
+    - amsmath
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
+
+    myst_substitutions:
+      INSTRUCTOR: Dr. Firas Moosvi
+      COURSE_CODE: DATA 550
+      COURSE_TITLE: (1) Dataviz I
+      PREREQS: All of DATA 530, 531
+      COREQS: N/A
+      FEES: $0
+      TERM: 2020 Winter Term 2
+      W_DATE_1: N/A
+      W_DATE_2: N/A 
+      W_DATE_3: N/A
+      CANVAS_ID: '63477'
+      ED_ID: N/A
+      LECTURE_TIMES: Mon/Wed 11-12:30 PM PST; Labs on Wednesdays
+      ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
+      CU_LINK: "[Collaborate Ultra](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/5284)"
+      ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
+      COURSE_LINK: "https://firas.moosvi.com/courses/data550"
+      FORUM_LINK: Slack
+      ANALYTICS_OPTOUT: "email your instructor."
+
+parse:
+  myst_extended_syntax: true

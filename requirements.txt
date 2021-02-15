@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+rpy2
+sphinx_inline_tabs
+altair
+pandas

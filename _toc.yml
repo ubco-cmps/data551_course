@@ -1,0 +1,49 @@
+- file: about/syllabus
+
+- part: Syllabus
+  chapters:
+    - file: about/syllabus2
+    
+- part: Lectures
+  chapters:
+    - file: class/Lecture1
+      title: Lecture 1
+    - file: class/Lecture2
+      title: Lecture 2
+    - file: class/Lecture3
+      title: Lecture 3
+    - file: class/Lecture4
+      title: Lecture 4
+    - file: class/Lecture5
+      title: Lecture 5
+    - file: class/Lecture6
+      title: Lecture 6
+    - file: class/Lecture7
+      title: Lecture 7
+    - file: class/Lecture8
+      title: Lecture 8
+
+- part: Labs
+  chapters:
+    - file: class/labs
+      title: Accept the Labs
+      sections:
+        - file: class/ggplot_practice
+          title: ggplot2 Practice 1
+        - file: class/ggplot_practice2
+          title: ggplot2 Practice 2
+        - file: class/altair_practice
+          title: Altair Practice 1
+        - file: class/altair_practice2
+          title: Altair Practice 2
+
+- part: Mini Projects
+  chapters:
+    - file: class/project1
+      title: Mini Project 1
+    - file: class/project2
+      title: Mini Project 2
+- part: Course Feedback
+  chapters:
+    - file: about/feedback
+      title: Anonymous Feedback Form
