@@ -1,5 +1,5 @@
 # Book settings
-title: DATA 550
+title: DATA 551
 author: Firas Moosvi
 logo: images/logo.jpg
 copyright: ""
@@ -15,12 +15,12 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  baseurl : "https://firas.moosvi.com/courses/data550"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://firas.moosvi.com/courses/data551"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   google_analytics_id: UA-168693744-4 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
     utterances:
-      repo: "ubco-cmps/data550_course"
+      repo: "ubco-cmps/data551_course"
   extra_footer : |
       <div>
       <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
@@ -33,7 +33,7 @@ launch_buttons:
   thebe              : true
 
 repository: 
-  url          : https://github.com/ubco-cmps/data550_course
+  url          : https://github.com/ubco-cmps/data551_course
   path_to_book : ""
   branch       : master
 
@@ -56,22 +56,22 @@ sphinx:
 
     myst_substitutions:
       INSTRUCTOR: Dr. Firas Moosvi
-      COURSE_CODE: DATA 550
-      COURSE_TITLE: (1) Dataviz I
-      PREREQS: All of DATA 530, 531
+      COURSE_CODE: DATA 551
+      COURSE_TITLE: (1) Dataviz II
+      PREREQS: All of DATA 534, DATA 543, DATA 550.
       COREQS: N/A
       FEES: $0
       TERM: 2020 Winter Term 2
       W_DATE_1: N/A
       W_DATE_2: N/A 
       W_DATE_3: N/A
-      CANVAS_ID: '63477'
+      CANVAS_ID: '64329'
       ED_ID: N/A
-      LECTURE_TIMES: Mon/Wed 11-12:30 PM PST; Labs on Wednesdays
+      LECTURE_TIMES: Mon/Wed 9:30-11:00 AM PST; Labs on Tuesdays
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       CU_LINK: "[Collaborate Ultra](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/5284)"
       ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/data550"
+      COURSE_LINK: "https://firas.moosvi.com/courses/data551"
       FORUM_LINK: Slack
       ANALYTICS_OPTOUT: "email your instructor."
 
