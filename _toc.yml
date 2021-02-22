@@ -28,13 +28,18 @@
     - file: class/labs
       title: Accept the Labs
 
-- part: Mini Projects
+- part: Project milestones
   chapters:
-    - file: class/project1
-      title: Mini Project 1
-    - file: class/project2
-      title: Mini Project 2
-- part: Course Feedback
-  chapters:
-    - file: about/feedback
-      title: Anonymous Feedback Form
+    - file: class/milestone1
+      title: Milestone 1
+    - file: class/milestone2
+      title: Milestone 2
+    - file: class/milestone3
+      title: Milestone 3
+    - file: class/milestone4
+      title: Milestone 4
+    
+# - part: Course Feedback
+#   chapters:
+#     - file: about/feedback
+#       title: Anonymous Feedback Form
