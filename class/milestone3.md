@@ -74,7 +74,7 @@ I will give an update on lecture 6 on Wed if we can figure this out before then.
       so put your `app.R` in the root project folder
       (together with all other files mentioned in the deployment docs),
     - Any other folders can be the same as for your Python project.
-- Don't wait to deploy until Saturday night,
+- Don't wait to deploy until the last minute,
   you will not have time to solve potential issues.
     - Deploy early and check that things are working,
       then redeploy every now and then.

@@ -54,7 +54,7 @@ rubric={accuracy:8}
 - I recommend creating `requirements.txt` manually
   and only fix the versions of dash and plotly.
     - Don't forget to include `gunicorn`.
-- Don't wait to deploy until Saturday night
+- Don't wait to deploy until the last minute
   after you have implemented every single feature you want.
   You will not have time to solve potential issues.
     - Deploy early and check that things are working,

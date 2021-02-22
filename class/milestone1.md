@@ -38,8 +38,7 @@ This process will be spread out over four milestones:
 4. Pick a technology stack from M3/4 and motivate your choice.
    Implement the feedback from M3 and make final improvements to the dashboard to be production ready.
 
-The projects will be developed on GitHub.com in public repos,
-so you are required to set-up a Github repository per group under the [UBC-MDS](https://github.com/UBC-MDS) organization.
+The projects will be developed on GitHub.com in public repos, contrary to the private repos we have been working in so far.
 
 # Milestone 1 - Dashboard proposal
 
@@ -61,10 +60,6 @@ rubric={mechanics:4}
     - Please [read the GitHub documentation on how to create a release via the online interface]( https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/releasing-projects-on-github). Name your release with the respective milestone name.
     - We will grade all files in the repo at the state they were in when you created the release.
       This means that you can continue to make changes in the repo without worrying about messing up your grading for the previous milestone.
-- **The only file you need to submit to Canvas is the one called `canvas-submission.md`**.
-    - This file is in your github.ubc.ca repo.
-    - Submit this file manually on Canvas and only once per group.
-    - Make sure to add a link to your milestone release in this file and leave the rest as is (this facilitates grading).
 
 ### Tips for working collaboratively on GitHub
 
@@ -120,28 +115,13 @@ Example writeup:
 ### Section 2: Description of the data
 rubric={reasoning:8,writing:2}
 
-You are allowed to select any dataset you want for this project,
+You must use one of the datasets that was previously approved in Data 550 for this project,
 as long as you have the license to use it publicly.
-**Warning:** finding a good data set can take **a lot of time and effort**.
-We therefore recommend that you select one
-that you have worked with in a previous lab in MDS
-and that you are already familiar with.
-
-A few datasets that have been popular in previous years:
-
-- https://www.kaggle.com/zynicide/wine-reviews/data
-- https://www.kaggle.com/osmi/mental-health-in-tech-survey
-- https://github.com/themarshallproject/city-crime
-
-Good general resources for finding interesting datasets:
-
-- https://github.com/fivethirtyeight/data
-- https://github.com/the-pudding/data
-- https://www.kaggle.com/datasets
+Now that you have some more experience with the data, you can start diving deeper into the dataset and update things with an eye for the dashboard.
 
 In your proposal,
 briefly describe the dataset and the variables that you will visualize.
-If your are planning to visualize a lot of columns,
+If you are planning to visualize a lot of columns,
 provide a high level descriptor of the variable types rather than listing every single column.
 For example,
 indicate that the dataset contains a variety of categorical variables for demographics and provide a brief list rather than describing every single variable.

@@ -9,9 +9,9 @@ Once the lab is ready for you to accept, click the below to accept the lab:
 | Lab               | Due Date                 | Link to Accept       |
 |-------------------|--------------------------|----------------------|
 | Milestone 1       | Thursday Mar 4 at 18:00  | [Accept Project Repo](https://classroom.github.com/g/gKfZq8j3)       |
-| Milestone 2       | Thursday Mar 11 at 18:00 | N/A Submit link to md file  |
-| Milestone 3       | Thursday Mar 18 at 18:00 | N/A Submit link to md file       |
-| Milestone 4       | Thursday Mar 25 18:00    | N/A Submit link to md file      |
+| Milestone 2       | Thursday Mar 11 at 18:00 | N/A Submit link to release  |
+| Milestone 3       | Thursday Mar 18 at 18:00 | N/A Submit link to release       |
+| Milestone 4       | Thursday Mar 25 18:00    | N/A Submit link to release      |
 | Teamwork Document | Thursday Mar 25 at 18:00 | [Accept Teamwork Doc 1]() |
 
 

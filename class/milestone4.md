@@ -51,7 +51,7 @@ rubric={accuracy:3}
 - This week, you're also going to [setup Heroku's GitHub integration to automate your deploys](https://devcenter.heroku.com/articles/github-integration),
   so that you have a branch in your github repo that is automatically deployed to Heroku.
     - Create a new branch for this on GitHub that you name `deployment`.
-- Don't wait to deploy until Saturday night,
+- Don't wait to deploy until the last minute,
   you will not have time to solve potential issues.
     - Deploy early and check that things are working,
       then redeploy every now and then.
