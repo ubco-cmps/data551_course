@@ -8,7 +8,7 @@ and the entire layout part is very similar to what you have done in Python.
 You will also respond to you TAs feedback for milestone 1,
 and explore if you can implement any of their suggestions,
 details below.
-You will optionally give feedback to another group on their dashboard.
+You will also give feedback to another group on their dashboard.
 
 ## 1. Submission instructions
 rubric={mechanics:4}

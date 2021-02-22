@@ -333,7 +333,7 @@ rubric={reasoning:1}
   or use this simple template:
     - > We welcome all contributions to this project! If you notice a bug or have a feature request, please [open up an issue](<insert link to your GH issue tracker). All contributors must abide by our [code of conduct](<insert link to CoC file).
 
-# 5. Start developing your app (Optional)
+## 5. Start developing your app (Optional)
 rubric={accuracy:2}
 
 It is recommended to take the first steps in the app development already
