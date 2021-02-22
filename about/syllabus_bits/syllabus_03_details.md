@@ -18,7 +18,8 @@ Suspendisse malesuada pretium dui, ac lacinia mi pellentesque eu. Sed volutpat e
 
 ```{tip}
 Number one reason thing to take away from this is...
-``` -->
+```
+-->
 
 (grading_practices)=
 ### How will I be evaluated in this course?
