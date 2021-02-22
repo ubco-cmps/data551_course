@@ -24,12 +24,13 @@ Number one reason thing to take away from this is...
 ### How will I be evaluated in this course?
 
 The grading scheme for this course is here:
-
-| Item     | Weight          | Due date(s) |
-|----------|-----------------|-------------|
-| Labs     | 50% (4 x 6.25%) | Thursdays at 18:00         |
-| Project 1  | 25%   | February 4 at 18:00      |
-| Project 2  | 25%   | February 11 at 18:00        |
+| Item              | Weight | Due date(s)                |
+|-------------------|--------|----------------------------|
+| Milestone 1       | 25%    | Thursday March 4 at 18:00  |
+| Milestone 2       | 15%    | Thursday March 11 at 18:00 |
+| Milestone 3       | 15%    | Thursday March 18 at 18:00 |
+| Milestone 4       | 25%    | Thursday March 25 at 18:00 |
+| Teamwork Document | 20%    | Thursday March 25 at 18:00 |
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.

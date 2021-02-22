@@ -7,7 +7,7 @@ Below is the list of resources I have used to put this syllabus together:
 - Psychology 417A-951 (Instructor: [Dr. Catherine Rawn](https://blogs.ubc.ca/catherinerawn/))
 - [Dr. Christopher Jones](https://hcommons.org/members/profchrismjones/) and [this tweet](https://twitter.com/ProfChrisMJones/status/1282036533562834944)
 - [Dr. Jesse Stommell](https://www.jessestommel.com/designing-for-care/)
-- [Header image -  Photo by Pixabay from Pexels](https://www.pexels.com/photo/code-coding-computer-cyberspace-270373/)
+- [Header image -  Photo by Luke Chesser from Pexels](https://unsplash.com/s/photos/dashboard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 - [Course Logo - Photo by Rakicevic Nenad from Pexels](https://www.pexels.com/photo/silhouette-of-person-holding-glass-mason-jar-1274260/)
 
 ## References
