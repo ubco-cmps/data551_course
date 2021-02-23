@@ -8,20 +8,20 @@
   chapters:
     - file: class/Lecture1
       title: Lecture 1
-    # - file: class/2-building-a-basic-dash-app
-    #   title: Lecture 2
-    # - file: class/3-dash-layouts_altair-interactivity
-    #   title: Lecture 3
-    # - file: class/4-maps-deployment
-    #   title: Lecture 4
-    # - file: class/5-dashr-and-ggplotly
-    #   title: Lecture 5
-    # - file: class/6-linking-plots_deployment
-    #   title: Lecture 6
-    # - file: class/7-tables-styling-performance
-    #   title: Lecture 7
-    # - file: class/8-notebook-interactivity
-    #   title: Lecture 8
+    - file: class/2-building-a-basic-dash-app
+      title: Lecture 2
+    - file: class/3-dash-layouts_altair-interactivity
+      title: Lecture 3
+    - file: class/4-maps-deployment
+      title: Lecture 4
+    - file: class/5-dashr-and-ggplotly
+      title: Lecture 5
+    - file: class/6-linking-plots_deployment
+      title: Lecture 6
+    - file: class/7-tables-styling-performance
+      title: Lecture 7
+    - file: class/8-notebook-interactivity
+      title: Lecture 8
 
 - part: Labs
   chapters:
