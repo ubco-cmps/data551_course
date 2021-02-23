@@ -16,11 +16,11 @@ The grading scheme for this course is here:
 
 | Item              | Weight | Due date(s)                |
 |-------------------|--------|----------------------------|
-| Milestone 1       | 25%    | Thursday March 4 at 18:00  |
-| Milestone 2       | 15%    | Thursday March 11 at 18:00 |
-| Milestone 3       | 15%    | Thursday March 18 at 18:00 |
-| Milestone 4       | 25%    | Thursday March 25 at 18:00 |
-| Teamwork Document | 20%    | Thursday March 25 at 18:00 |
+| Milestone 1       | 25%    | Tuesday March 2 at 18:00  |
+| Milestone 2       | 15%    | Tuesday March 9 at 18:00 |
+| Milestone 3       | 15%    | Tuesday March 16 at 18:00 |
+| Milestone 4       | 25%    | Tuesday March 23 at 18:00 |
+| Teamwork Document | 20%    | Tuesday March 23 at 18:00 |
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
