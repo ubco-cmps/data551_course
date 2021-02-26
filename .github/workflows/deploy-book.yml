@@ -24,6 +24,13 @@ jobs:
         pip install -r requirements.txt
         pip install linkify-it-py
         pip install myst-parser==0.13.1
+  
+    - uses: r-lib/actions/setup-r@v1
+    - name: R stuff 
+      run: |
+        Rscript -e 'install.packages("IRkernel")'
+        Rscript -e 'IRkernel::installspec()'
+        
     # Build the book
     - name: Build the book
       run: |
