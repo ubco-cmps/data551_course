@@ -16,8 +16,10 @@
       title: Lecture 4
     - file: class/5-dashr-and-ggplotly
       title: Lecture 5
-    - file: class/6-linking-plots_deployment
+    - file: class/Lecture6
       title: Lecture 6
+    - file: class/6-linking-plots_deployment
+      title: Notes - Linking Plots
     - file: class/7-tables-styling-performance
       title: Lecture 7
     - file: class/8-notebook-interactivity
