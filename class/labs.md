@@ -10,7 +10,7 @@ Once the lab is ready for you to accept, click the below to accept the lab:
 |-------------------|--------------------------|----------------------|
 | Milestone 1       | Tuesday Mar 2 at 18:00  | [Accept Python Repo](https://classroom.github.com/g/gKfZq8j3)       |
 | Milestone 2       | Tuesday Mar 9 at 18:00 | N/A Submit link to release  |
-| Milestone 3       | Tuesday Mar 16 at 18:00 | [Accept R Repo]()        |
+| Milestone 3       | Tuesday Mar 16 at 18:00 | [Accept R Repo](https://classroom.github.com/g/tTvZFvur)        |
 | Milestone 4       | Tuesday Mar 23 18:00    | N/A Submit link to release      |
 | Teamwork Document | Tuesday Mar 23 at 18:00 | [Accept Teamwork Doc 1]() |
 
