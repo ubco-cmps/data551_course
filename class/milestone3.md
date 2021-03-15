@@ -148,47 +148,4 @@ in the `doc` folder.
 ## 5. Give peer feedback to another group (Optional)
 rubric={reasoning:2}
 
-This was originally going to be mandatory,
-but because of quiz week,
-I made this optional too =)
-I would still really encourage you to do it if you have the time,
-because it is a great experience to practice giving valuable feedback to another group
-and it can also inspire your design for milestone 4.
-
-You will give peer feedback to the group one number higher than you.
-So if you are group 5, you give feedback to group 6.
-If you are the last group (26),
-you will feedback group 1.
-You should be able to find your feedback groups' repo
-in the MDS organization on github.com.
-If they did not include their group number in the repo name,
-you can let me know and I can help you find it.
-
-To give valuable feedback to another group,
-you will pretend to be their target audience.
-To do this effectively,
-you will need to read section 1 (motivation) and 3 (usage scenario)
-of their proposal
-and maybe also skim their README.
-To show that you have done this,
-start your feedback with 2-3 sentences describing your feedback persona
-and motivation/goal when using this dashboard.
-
-Open a new issue in the groups repo,
-where you write your feedback.
-Name the issue "Peer feedback",
-so that it is easy to find.
-When you give feedback,
-try to both include what you like about the dashboard
-and want the group to keep
-as well as what you think can be improved.
-You don't need to make this overly long,
-aim for around three things you like about the dashboard,
-and around three things that you think could be improved.
-The group will respond to your feedback
-and try to implement some of it in milestone 4.
-It is fine to comment on style, colors etc,
-but aim to have at least one point about a bigger picture issue,
-these are often the most helpful feedback.
-
-**Include a link to your feedback issue in `canvas-submission.html`**.
+Done in class in Lecture 7
