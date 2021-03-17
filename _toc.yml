@@ -18,12 +18,16 @@
       title: Lecture 5
     - file: class/Lecture6
       title: Lecture 6
+    - file: class/Lecture7
+      title: Lecture 7
+    - file: class/Lecture8
+      title: Lecture 7
     - file: class/6-linking-plots_deployment
       title: Notes - Linking Plots
     - file: class/7-tables-styling-performance
-      title: Lecture 7
+      title: Notes - Tables, Styling, Performance
     - file: class/8-notebook-interactivity
-      title: Lecture 8
+      title: Notes - Notebook Interactivity
 
 - part: Labs
   chapters:
