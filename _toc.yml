@@ -1,51 +1,44 @@
-- file: about/syllabus
-
-- part: Syllabus
+format: jb-book
+root: about/syllabus
+parts:
+- caption: Syllabus
   chapters:
-    - file: about/syllabus2
-    
-- part: Lectures
+  - file: about/syllabus2
+- caption: Lectures
   chapters:
-    - file: class/Lecture1
-      title: Lecture 1
-    - file: class/2-building-a-basic-dash-app
-      title: Lecture 2
-    - file: class/3-dash-layouts_altair-interactivity
-      title: Lecture 3
-    - file: class/4-maps-deployment
-      title: Lecture 4
-    - file: class/5-dashr-and-ggplotly
-      title: Lecture 5
-    - file: class/Lecture6
-      title: Lecture 6
-    - file: class/Lecture7
-      title: Lecture 7
-    - file: class/Lecture8
-      title: Lecture 7
-    - file: class/6-linking-plots_deployment
-      title: Notes - Linking Plots
-    - file: class/7-tables-styling-performance
-      title: Notes - Tables, Styling, Performance
-    - file: class/8-notebook-interactivity
-      title: Notes - Notebook Interactivity
-
-- part: Labs
+  - file: class/Lecture1
+    title: Lecture 1
+  - file: class/2-building-a-basic-dash-app
+    title: Lecture 2
+  - file: class/3-dash-layouts_altair-interactivity
+    title: Lecture 3
+  - file: class/4-maps-deployment
+    title: Lecture 4
+  - file: class/5-dashr-and-ggplotly
+    title: Lecture 5
+  - file: class/Lecture6
+    title: Lecture 6
+  - file: class/Lecture7
+    title: Lecture 7
+  - file: class/Lecture8
+    title: Lecture 7
+  - file: class/6-linking-plots_deployment
+    title: Notes - Linking Plots
+  - file: class/7-tables-styling-performance
+    title: Notes - Tables, Styling, Performance
+  - file: class/8-notebook-interactivity
+    title: Notes - Notebook Interactivity
+- caption: Labs
   chapters:
-    - file: class/labs
-      title: Accept the Labs
-
-- part: Project milestones
+  - file: class/labs
+    title: Accept the Labs
+- caption: Project milestones
   chapters:
-    - file: class/milestone1
-      title: Milestone 1
-    - file: class/milestone2
-      title: Milestone 2
-    - file: class/milestone3
-      title: Milestone 3
-    - file: class/milestone4
-      title: Milestone 4
-    
-# - part: Course Feedback
-#   chapters:
-#     - file: about/feedback
-#       title: Anonymous Feedback Form
+  - file: class/milestone1
+    title: Milestone 1
+  - file: class/milestone2
+    title: Milestone 2
+  - file: class/milestone3
+    title: Milestone 3
+  - file: class/milestone4
+    title: Milestone 4
