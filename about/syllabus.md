@@ -1,58 +1,122 @@
-![](../images/header.jpg)
+![](../images/header.png)
 
 ![](../images/UBCO_CMPS_header.jpg)
 
-# Course Syllabus
+**Department of Computer Science, Mathematics, Physics, and Statistics**
 
-This is the official syllabus and course outline for {{ COURSE_CODE }}.
+# Course Syllabus (Official)
 
-```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
+Below is the official Course Syllabus for {{ COURSE_CODE }}.
+
+## Course Instructor
+
+**Name:** {{ INSTRUCTOR }}
+
+**Office:** {{ OFFICE }}
+
+**Phone:** {{ PHONE }}
+
+For information on how to contact your course instructor, including office hours, see the {{ '[course website]({link})'.format(link=COURSE_LINK)}}.
+
+**Mode of Delivery:** Online (All course activities and assessments, including the Final Exam, will be conducted Online.)
+
+## Course Description
+
+```{include} syllabus_bits/calendar_entry.md
 ```
 
-(grading_practices)=
-### How will I be evaluated in this course?
+## Course Format
 
-The grading scheme for this course is here:
+This course has {{ FORMAT }}
 
-| Item              | Weight | Due date(s)                |
-|-------------------|--------|----------------------------|
-| Milestone 1       | 25%    | Tuesday March 2 at 18:00  |
-| Milestone 2       | 15%    | Tuesday March 9 at 18:00 |
-| Milestone 3       | 15%    | Tuesday March 16 at 18:00 |
-| Milestone 4       | 25%    | Tuesday March 23 at 18:00 |
-| Teamwork Document | 20%    | Tuesday March 23 at 18:00 |
+You will find all the important term dates in the [UBCO Academic Calendar](http://www.calendar.ubc.ca/okanagan/index.cfm?go=deadlines).
 
-```{attention} 
-All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
-Any submissions submitted past the grace period will not be graded (with some exceptions).
+## Important Details
+
+| Name              | Description                                                                                                                                        |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course            | {{ COURSE_CODE }}                                                                                                                                  |
+| Term              | {{ TERM }}                                                                                                                                         |
+| Instructor        | {{ INSTRUCTOR }}                                                                                                                                   |
+| Lectures          | {{ MEETING_TIMES }}: {{ ROOM }}                                                                                                                    |
+| Labs              | {{ LAB_TIMES }}: {{ ROOM }}                                                                                                                        |
+| Student Hours     | To get live 1 on 1 help in the course, use {{ ZOOM_LINK.replace('CANVAS_ID',CANVAS_ID) }} at various times (see below for schedule).               |
+| Canvas URL        | {{ CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID) }}                                                                                                   |
+| Course Discussion | To ask any course-related questions, use private (personal, not useful for anyone else) or public (helpful for other) messages on {{ FORUM_LINK }} |
+
+### What do I need to purchase for this course?
+
+Being very conscious of the high tuition and technology costs, we have made efforts to remove the additional cost of taking this course.
+All course content, references, and resources provided in this course are free and open source, and can be considered open educational resources (OER).
+
+## Contact Us
+
+```{include} syllabus_bits/teaching_team.md
 ```
 
-```{include} syllabus_bits/syllabus_01_highlights.md
+## Evaluation
+
+```{include} syllabus_bits/grading_practices_detailed.md
 ```
 
-```{include} syllabus_bits/syllabus_02_changelog.md
+## Passing requirements
+
+```{include} syllabus_bits/passing_requirement.md
 ```
 
-<!-- ```{include} syllabus_bits/syllabus_03_details.md
+## Schedule
+
+```{include} syllabus_bits/course_schedule.md
 ```
 
-```{include} syllabus_bits/syllabus_04_tools.md
+The best way to get personalized help in this course is to attend the labs and student hours we have scheduled for this course.
+They are all done on Zoom and this is time the TAs have set aside to help you!
+You may also use this time to talk to us about anything else related to data science as well.
+We would love to hear about you, what your interests are, and if you need any career advice. 
+
+A few other notes:
+
+- We will be using {{ FORUM_LINK }} for Announcements in this course.
+- For **all** course-related questions you can reach out to the teaching team including instructors and TAs via {{ FORUM_LINK }}.
+- You are encouraged to post questions publicly whenever possible so others can benefit. For private and personal issues, you can send private messages on {{ FORUM_LINK }}.
+- Any student may visit the student hour for any member of the teaching team (TA or instructor)! In other words, you can go to the student hour of ANY TA, not just the one whose lab/tutorial you are registered in. 
+
+## Syllabus changes
+
+In this section, I will outline any changes that have been made to the syllabus as we go through the course.
+We will do our best to follow the plan outlined in this syllabus, but in case things go south, I will need to make adjustments to the contents and the schedule.
+
+Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
+
+| Change Date | Summary | Rationale |
+|-------------|---------|-----------|
+| N/A         | N/A     | N/A       |
+|             |         |           |
+
+## Learning Outcomes
+
+The Learning Outcomes for this course are: 
+
+```{include} syllabus_bits/course_LOs.md
 ```
 
-```{include} syllabus_bits/syllabus_05_taught.md
+More details about the course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+
+## Required Materials
+
+There is no requirement to purchase textbooks or any other materials for this course.
+Resources and materials for this course can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+
+## Late Policy and Missed Assignments and Exams
+
+Deadlines in this course have a generous no-penalty {{ GRACE_PERIOD }} grace period so late submissions are not generally accepted.
+Missed Tests and Exams will be given a score of 0 unless prior arrangements are made with the course instructor.
+To contact the instructor for this course, use {{ FORUM_LINK }}.
+Details on deadlines and other course policies can be found on the {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID))}}.
+
+```{warning}
+The policies below are required by UBCO to be in the syllabus, some of them (such as the final exam period) do not apply to the MDS program.
 ```
 
-```{include} syllabus_bits/syllabus_06_doing_well.md
+```{include} syllabus_bits/policies.md
 ```
-
-```{include} syllabus_bits/syllabus_07_integrity.md
-```
-
-```{include} syllabus_bits/syllabus_08_accommodations.md
-```
-
-```{include} syllabus_bits/syllabus_09_policies.md
-```
-
-```{include} syllabus_bits/syllabus_10_references.md
-``` -->
