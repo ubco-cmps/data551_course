@@ -16,14 +16,12 @@ parts:
     title: Lecture 4
   - file: class/5-dashr-and-ggplotly
     title: Lecture 5
-  - file: class/Lecture6
+  - file: class/6-linking-plots_deployment
     title: Lecture 6
   - file: class/Lecture7
     title: Lecture 7
   - file: class/Lecture8
-    title: Lecture 7
-  - file: class/6-linking-plots_deployment
-    title: Notes - Linking Plots
+    title: Lecture 8
   - file: class/7-tables-styling-performance
     title: Notes - Tables, Styling, Performance
   - file: class/8-notebook-interactivity

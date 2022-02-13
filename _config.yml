@@ -10,12 +10,12 @@ latex:
   latex_documents:
     targetname: book.tex
 html:
-  home_page_in_navbar : false
+  home_page_in_navbar : true
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
   navbar_number_sections : false
-  baseurl : "https://firas.moosvi.com/courses/data551"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://firas.moosvi.com/courses/2021_WT2/data551/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   google_analytics_id: UA-168693744-4 # add your Google Analytics Tracking Code
   comments:
     hypothesis: false
@@ -33,9 +33,9 @@ launch_buttons:
   thebe              : true
 
 repository: 
-  url          : https://github.com/ubco-cmps/data551_course
+  url          : https://github.com/ubco-mds-2021/data551
   path_to_book : ""
-  branch       : master
+  branch       : main
 
 sphinx:
   extra_extensions:
@@ -53,27 +53,35 @@ sphinx:
     - replacements
     - smartquotes
     - substitution
-
     myst_substitutions:
-      INSTRUCTOR: Dr. Firas Moosvi
-      COURSE_CODE: DATA 551
-      COURSE_TITLE: (1) Dataviz II
-      PREREQS: All of DATA 534, DATA 543, DATA 550.
-      COREQS: N/A
-      FEES: $0
-      TERM: 2020 Winter Term 2
-      W_DATE_1: N/A
-      W_DATE_2: N/A 
-      W_DATE_3: N/A
-      CANVAS_ID: '64329'
-      ED_ID: N/A
-      LECTURE_TIMES: Mon/Wed 9:30-11:00 AM PST; Labs on Tuesdays
+      INSTRUCTOR: "Dr. Firas Moosvi (he/his/him)"
+      TA: "Amanat"
+      PRONOUNCE: "[Fur-az Moose-vee](https://namedrop.io/firasmoosvi)"
+      OFFICE: "SCI 393"
+      PHONE: "N/A"
+      COURSE_CODE: "DATA 551"
+      SECTION: "001"
+      CREDITS: "1"
+      TITLE: "Dataviz I"
+      PREREQS: "All of DATA 534, DATA 543, DATA 550."
+      COREQS: "N/A"
+      TERM: "2021 Winter Term 2"
+      ROOM: "Online Via Zoom"
+      MEETING_TIMES: "Monday, Wednesday from 9:30 AM - 11:00 AM"
+      LAB_TIMES: "Wednesdays 13:30 pm - 15:30 pm"
+      GRACE_PERIOD: "48 hour"
+      # W_DATE_1: "11:59 PDT on September 20, 2021"
+      # W_DATE_2: "11:59 PDT on November 12, 2021"
+      # W_DATE_3: "November 12, 2021"
+      # EXAM_PERIOD: "Saturday December 11th - Wednesday, December 22"
+      CANVAS_ID: "86767"
+      CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID" # {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID)) }}
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
-      CU_LINK: "[Collaborate Ultra](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/5284)"
-      ANNOUNCEMENTS_LINK: "[Canvas Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
-      COURSE_LINK: "https://firas.moosvi.com/courses/data551"
-      FORUM_LINK: Slack
-      ANALYTICS_OPTOUT: "email your instructor."
-
-parse:
-  myst_extended_syntax: true
+      ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
+      COURSE_LINK: "https://firas.moosvi.com/courses/2021_WT1/data551"
+      FORUM_LINK: "Slack"
+      FORUM_LINK: "[Slack](https://join.slack.com/t/ubcomds2021/shared_invite/zt-vdpj5z3q-Yo5FFNfW7fOXGHh7Ib4pNg)"
+      ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0p6lP4TtNpJn410)"
+      FORMAT: "Lectures and Labs/Projects will be running in-person in this course."
+      ASSOCIATE_HEAD: "Jeff Andrews [jeff.andrews@ubc.ca](mailto:jeff.andrews@ubc.ca) or Khalad Hasan [khalad.hasan@ubc.ca](mailto:khalad.hasan@ubc.ca)"
+      ANON_FEEDBACK: "[feedback form](https://ubc.ca1.qualtrics.com/jfe/form/SV_cI0jyldTtcTiSFM)"
