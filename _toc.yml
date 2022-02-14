@@ -30,8 +30,10 @@ parts:
   chapters:
   - file: class/labs
     title: Accept the Labs
-- caption: Project milestones
+- caption: Block Project
   chapters:
+  - file: class/project
+    title: Project Overview
   - file: class/milestone1
     title: Milestone 1
   - file: class/milestone2

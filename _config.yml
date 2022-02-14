@@ -62,7 +62,7 @@ sphinx:
       COURSE_CODE: "DATA 551"
       SECTION: "001"
       CREDITS: "1"
-      TITLE: "Dataviz I"
+      TITLE: "Dataviz II"
       PREREQS: "All of DATA 534, DATA 543, DATA 550."
       COREQS: "N/A"
       TERM: "2021 Winter Term 2"
@@ -74,7 +74,7 @@ sphinx:
       # W_DATE_2: "11:59 PDT on November 12, 2021"
       # W_DATE_3: "November 12, 2021"
       # EXAM_PERIOD: "Saturday December 11th - Wednesday, December 22"
-      CANVAS_ID: "86767"
+      CANVAS_ID: "86697"
       CANVAS_LINK: "https://canvas.ubc.ca/courses/CANVAS_ID" # {{ '[course website]({link})'.format(link=CANVAS_LINK.replace('CANVAS_ID',CANVAS_ID)) }}
       ZOOM_LINK: "[Zoom](https://canvas.ubc.ca/courses/CANVAS_ID/external_tools/15408)"
       ANNOUNCEMENTS_LINK: "[Announcements](https://canvas.ubc.ca/courses/CANVAS_ID/announcements)"
