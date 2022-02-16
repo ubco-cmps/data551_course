@@ -8,7 +8,7 @@ Once the lab is ready for you to accept, click the below to accept the lab:
 
 | Lab               | Due Date                | Link to Accept             |
 |-------------------|-------------------------|----------------------------|
-| Milestone 1       | Tuesday Mar 2 at 18:00  | [Accept Python Repo]()     |
+| Milestone 1       | Tuesday Mar 2 at 18:00  | [Accept Python Repo](https://classroom.github.com/a/lnflkabS)     |
 | Milestone 2       | Tuesday Mar 9 at 18:00  | N/A Submit link to release |
 | Milestone 3       | Tuesday Mar 16 at 18:00 | [Accept R Repo]()          |
 | Milestone 4       | Tuesday Mar 23 18:00    | N/A Submit link to release |
