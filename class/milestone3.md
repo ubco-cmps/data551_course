@@ -7,18 +7,17 @@ You will also give feedback to another group on their dashboard.
 
 ## 1. Submission instructions
 
-- In the [UBCO-MDS GitHub organization](https://github.com/ubco-mds-2021-labs) on github.com, setup a public repository with a reasonable name for your project.
-    - We need a public github.com repo for deployment. This will also make it easy to share a link to your work as part of your portfolio.
-    - This also keeps milestone requirements separate from your actual code-base. You will be making Github releases of your own repository rather than committing to the milestone repository.
+- We need a public github.com repo for deployment. This will also make it easy to share a link to your work as part of your portfolio. You will get a new template repo for your R dashboard, name your repo something memorable, keep the name the same as Milestone 1 & 2, but just add R.
+- Use the same repo for Milestone 3 and 4 for your R Dashboard.
 - Pick a suitable licence. MIT and BSD-3 are common good options for open source projects. [The carpentries has a short primer on licenses](http://swcarpentry.github.io/git-novice/11-licensing/index.html) (optional read).
 - You will submit your repos on Gradescope, as usual.
 
-### Create a new github.com repo for your dashr project
+### Create a new github.com repo for your dashr project (Accept a new GH Classroom link)
 
 - You will create a new repo for this project
 - Name it the same as your Python dashboard repo plus a `-R` suffix so it is easy to find.
     - `your-previous-repo-name-R`
-- Copy over your contributing guidelines, code of conduct README file, and the necessary data files.
+- Copy over your contributing guidelines, code of conduct, teamwork contract, README file, and any data files.
     - Update your README with a link to the deployed R dashboard and a new image/gif of the R dashboard in action.
 
 ### Tips for working collaboratively on GitHub

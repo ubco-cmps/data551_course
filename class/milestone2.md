@@ -6,9 +6,8 @@ You don't need to implement all the feedback you received from your TA yet, but 
 
 ## 1. Submission instructions
 
-- In the [UBCO-MDS GitHub organization](https://github.com/ubco-mds-2021-labs) on github.com, setup a public repository with a reasonable name for your project.
-    - We need a public github.com repo for deployment. This will also make it easy to share a link to your work as part of your portfolio.
-    - This also keeps milestone requirements separate from your actual code-base. You will be making Github releases of your own repository rather than committing to the milestone repository.
+- We need a public github.com repo for deployment. This will also make it easy to share a link to your work as part of your portfolio. Name your repo something memorable.
+- Continue using the same repo as Milestone 1 for your python Dashboard.
 - Pick a suitable licence. MIT and BSD-3 are common good options for open source projects. [The carpentries has a short primer on licenses](http://swcarpentry.github.io/git-novice/11-licensing/index.html) (optional read).
 - You will submit your repos on Gradescope, as usual.
 
